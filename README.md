@@ -6,9 +6,10 @@
 - Send me your github username
 - Confirm that you can open powershell on your computer
   - I'm assuming everyone is running W10
-  - Run the command ```$psversiontable```. Output should look like:
-  ```powershell
-  PS > $psversiontable
+  - Run the command ```$psversiontable```. Output should look like: 
+
+```powershell
+PS > $psversiontable
 
 Name                           Value
 ----                           -----
