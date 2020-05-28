@@ -22,3 +22,6 @@ WSManStackVersion              3.0
 PSRemotingProtocolVersion      2.3
 SerializationVersion           1.1.0.1
 ```
+
+- If it doesnt look like that, let me know, we'll correct it
+- Read and go through the exercises from Chapters 1-4
